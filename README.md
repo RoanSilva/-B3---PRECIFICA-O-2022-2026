@@ -7,7 +7,7 @@ Este projeto contém uma grade de cotações com preços de ativos negociados na
 
 Uso
 
-Clone o repositório:git clone https://github.com/your-username/grade-cotacoes-b3.git
+Clone o repositório:git clone https://github.com/RoanSilva/B3-PRECIFICACOES-FLUXO
 
 
 
