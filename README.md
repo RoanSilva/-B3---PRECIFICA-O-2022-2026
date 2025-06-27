@@ -30,7 +30,7 @@ Propósito: Este projeto é exclusivamente para fins educativos e estudos. Não 
 ***  Disclaimer  ***
 
 NÃO É RECOMENDAÇÃO DE COMPRA & VENDASOMENTE PARA FINS EDUCATIVOS E ESTUDOSOs preços listados são ilustrativos e podem não refletir cotações em tempo real. Sempre consulte fontes oficiais da B3 ou outras plataformas confiáveis antes de tomar decisões financeiras.
-
+DEIXA OS "CARA BRIGA 12/14/21", SEGUIMENTO DA PRIMEIRA PERNA, APOS PROJEÇÃO FIBONACCI E ADICIONA TODA A EXPANÇÃO DE FIBO E SEGUINDO TODA A SUA EXPANÇÃO (ALVO FINAL 250K).....  
 
 Contribuições para atualizar as cotações ou melhorar a grade são bem-vindas.
 Desenvolvido por Roan.
