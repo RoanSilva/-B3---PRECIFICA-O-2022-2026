@@ -10,9 +10,13 @@ git clone https://github.com/RoanSilva/B3-PRECIFICACOES-FLUXO
 ```
 
 Abra o arquivo em metatrader 4/5 ou na plataforma que preferir para visualizar o fluxo das precificações/cotações dos ativos. 
+
 Atentar aos layouts, onde esta as analises.!!!!! 
+
 Tempo grafico - 1A / 120D / 90D / 1S / 240H / 60H / 15M / 1M 
+
 (Anual ~ Trimestre ~ Semestre ~ Semanal ~ intraAbertura(09:00/13:00)&Fechamento(13:00/17:00) ~ 1Hora ~ 15Minutos ~ 01Minuto) 
+
 Utilize os dados como referência complementar para estudos ou análises financeiras.
 
 ## ***** ATENÇÃO *****
