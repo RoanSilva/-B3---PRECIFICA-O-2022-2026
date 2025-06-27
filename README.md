@@ -1,4 +1,5 @@
 Grade de Cotações da B3
+
 Visão Geral
 Este projeto contém uma grade de cotações com preços de ativos negociados na B3 (Brasil). O arquivo serve como um recurso complementar para estudos e análises, listando preços de ativos disponíveis na bolsa. É projetado para oferecer uma visão do fluxo de precificações/cotações de ativos, sendo um ponto de partida para estudos financeiros.
 
