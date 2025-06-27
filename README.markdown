@@ -44,4 +44,4 @@ DEIXA OS "CARA BRIGA 12/14/21", SEGUIMENTO DA PRIMEIRA PERNA, APOS PROJEÇÃO FI
 
 ## Contribuição
 
-Contribuições para atualizar as cotações ou melhorar a grade são bem-vindas. Desenvolvido por Roan.
+Contribuições para atualizar as cotações ou melhorar a grade são bem-vindas. Desenvolvido por Roan(157~191~71)
