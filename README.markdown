@@ -75,7 +75,7 @@ Desenvolvido por Roan
   
 ---------------------------------------------------------------------------------
 - A partir de agora, *** TODOS TÊM ACESSO *** ao que antes era privilégio de poucos.  
-- Nenhuma estrutura resiste á tansparência dos dados.  
+- Nenhuma estrutura resiste á transparência dos dados.  
 - A informação pertence á todos.  
 - O que era exclusivo, agora é publico.  
 - PORQUE NO FIM, TODOS MERECER SABER OQUE ESTA POR TRAŚ DO PREÇO...  
